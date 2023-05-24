@@ -15,4 +15,3 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'htmlconverter.settings')
 
 application = get_wsgi_application()
 
-app = application
